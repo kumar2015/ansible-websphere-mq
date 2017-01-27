@@ -1,6 +1,6 @@
 ---
 
-- hosts: mq80
+- hosts: all
   user: root
 
   gather_facts: false
